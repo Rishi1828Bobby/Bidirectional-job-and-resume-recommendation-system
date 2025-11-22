@@ -1,0 +1,220 @@
+      index      Resume_title       City  location  \
+9294   9294  sr php developer  Ahmedabad        11   
+
+                                            Description  \
+9294  7 year experience as php developer good in wor...   
+
+                                       work_experiences  \
+9294  {0: [{'wtitle:': 'sr php developer'}, {'wcompa...   
+
+                                             Educations  \
+9294  {0: [{'e_title:': 'PGDCA(Postgraduate diploma'...   
+
+                                                 Skills Links Certificates  \
+9294  ['l', ' laravel(1.5year)', ' l', ' ci(3year)',...    []           {}   
+
+      ...    vec_11    vec_12    vec_13    vec_14    vec_15    vec_16  \
+9294  ...  0.592906 -0.516192  1.768629  2.350778 -1.966558  1.872225   
+
+        vec_17    vec_18   vec_19    vec_20  
+9294  1.477726 -2.314694 -0.86207  0.033591  
+
+[1 rows x 46 columns]
+      index   Resume_title  City  location Description  \
+5306   5306  php developer  Pune        20               
+
+                                       work_experiences  \
+5306  {0: [{'wtitle:': 'php developer'}, {'wcompany:...   
+
+                                             Educations  \
+5306  {0: [{'e_title:': 'MCA in Business Administrat...   
+
+                                                 Skills Links Certificates  \
+5306  ['css', ' php', ' codeigniter', ' jquery', ' a...    []           {}   
+
+      ...    vec_11    vec_12   vec_13    vec_14    vec_15    vec_16  \
+5306  ...  0.462496  0.987699  0.67438  0.407858 -0.951134  1.126922   
+
+        vec_17    vec_18    vec_19    vec_20  
+5306  0.355371 -1.823328 -2.837529  0.093733  
+
+[1 rows x 46 columns]
+      index   Resume_title  City  location Description  \
+6603   6603  php developer  Pune        20               
+
+                                       work_experiences  \
+6603  {0: [{'wtitle:': 'php developer'}, {'wcompany:...   
+
+                                             Educations  \
+6603  {0: [{'e_title:': 'MCA in Business Administrat...   
+
+                                                 Skills Links Certificates  \
+6603  ['css', ' php', ' codeigniter', ' jquery', ' a...    []           {}   
+
+      ...    vec_11    vec_12    vec_13    vec_14    vec_15    vec_16  \
+6603  ...  0.518443  0.959195  0.909272  0.275393 -0.913578  1.325727   
+
+        vec_17    vec_18   vec_19    vec_20  
+6603  0.245478 -1.908518 -2.73342  0.352739  
+
+[1 rows x 46 columns]
+       index   Resume_title  City  location  \
+10443  10443  php developer  NONE         1   
+
+                                             Description  \
+10443  to be associated with an organization that pro...   
+
+                                        work_experiences  \
+10443  {0: [{'wtitle:': 'php developer'}, {'wcompany:...   
+
+                                              Educations  \
+10443  {0: [{'e_title:': 'M.Tech in NOORUL ISLAM'}, {...   
+
+                                                  Skills Links Certificates  \
+10443  ['html', ' php', ' codeigniter', ' python', ' ...    []           {}   
+
+       ...    vec_11    vec_12    vec_13    vec_14    vec_15    vec_16  \
+10443  ... -0.387778 -0.682867 -0.178634  2.275931 -1.090955  1.498385   
+
+         vec_17   vec_18   vec_19    vec_20  
+10443  1.449546 -1.70457 -2.26057  0.415872  
+
+[1 rows x 46 columns]
+      index   Resume_title  City  location  \
+1442   1442  php developer  NONE         1   
+
+                                            Description  \
+1442  to be associated with an organization that pro...   
+
+                                       work_experiences  \
+1442  {0: [{'wtitle:': 'php developer'}, {'wcompany:...   
+
+                                             Educations  \
+1442  {0: [{'e_title:': 'M.Tech in NOORUL ISLAM'}, {...   
+
+                                                 Skills Links Certificates  \
+1442  ['html', ' php', ' codeigniter', ' python', ' ...    []           {}   
+
+      ...    vec_11   vec_12    vec_13    vec_14    vec_15    vec_16  \
+1442  ... -0.738743 -0.78934 -0.047842  2.028823 -1.038398  1.589932   
+
+        vec_17    vec_18    vec_19    vec_20  
+1442  1.311923 -1.627915 -2.368192  0.387989  
+
+[1 rows x 46 columns]
+       index   Resume_title       City  location  \
+10270  10270  php developer  Bengaluru        16   
+
+                                    Description  \
+10270  job title: php developer, .net developer   
+
+                                        work_experiences  \
+10270  {0: [{'wtitle:': 'php developer'}, {'wcompany:...   
+
+                                              Educations  \
+10270  {0: [{'e_title:': 'B.Tech'}, {'e_schoolname:':...   
+
+                                                  Skills  \
+10270  ['php', ' bootstrap', ' javascript', ' jquery'...   
+
+                                                   Links Certificates  ...  \
+10270  ['https://github.com/krushnareddy', 'https://g...           {}  ...   
+
+         vec_11    vec_12    vec_13    vec_14    vec_15    vec_16    vec_17  \
+10270  0.080815  0.195961  1.437466  1.857156 -2.167528  0.163341  1.216311   
+
+         vec_18    vec_19    vec_20  
+10270 -1.748856 -0.766313 -0.615139  
+
+[1 rows x 46 columns]
+      index   Resume_title       City  location  \
+1269   1269  php developer  Bengaluru        16   
+
+                                   Description  \
+1269  job title: php developer, .net developer   
+
+                                       work_experiences  \
+1269  {0: [{'wtitle:': 'php developer'}, {'wcompany:...   
+
+                                             Educations  \
+1269  {0: [{'e_title:': 'B.Tech'}, {'e_schoolname:':...   
+
+                                                 Skills  \
+1269  ['php', ' bootstrap', ' javascript', ' jquery'...   
+
+                                                  Links Certificates  ...  \
+1269  ['https://github.com/krushnareddy', 'https://g...           {}  ...   
+
+        vec_11    vec_12   vec_13    vec_14    vec_15   vec_16    vec_17  \
+1269  0.367558  0.175739  1.55205  1.987885 -2.262697  0.12349  1.295206   
+
+        vec_18    vec_19    vec_20  
+1269 -1.925641 -0.781281 -0.747576  
+
+[1 rows x 46 columns]
+      index       Resume_title  City  location  \
+9673   9673  sr. php developer  Pune        20   
+
+                                            Description  \
+9673  having 2.2 years of experience as nodejs, php,...   
+
+                                       work_experiences  \
+9673  {0: [{'wtitle:': 'sr. php developer'}, {'wcomp...   
+
+                                             Educations  \
+9673  {0: [{'e_title:': 'Masters in Computer Science...   
+
+                                                 Skills Links Certificates  \
+9673  ['html', ' javascript', ' php', ' codeigniter'...    []           {}   
+
+      ...    vec_11   vec_12    vec_13    vec_14    vec_15    vec_16  \
+9673  ...  0.831174 -0.72172  0.631013  1.194672 -1.302135  1.601361   
+
+        vec_17    vec_18   vec_19    vec_20  
+9673  0.755222 -0.639407 -1.99869  0.018747  
+
+[1 rows x 46 columns]
+      index      Resume_title    City  location  \
+1570   1570  sr php developer  Bhopal        19   
+
+                                            Description  \
+1570  to work in an organization, where innovation a...   
+
+                                       work_experiences  \
+1570  {0: [{'wtitle:': 'sr php developer'}, {'wcompa...   
+
+                                             Educations  \
+1570  {0: [{'e_title:': 'B.E. in Computer Science'},...   
+
+                                                Skills Links Certificates  \
+1570  ['html', ' php', ' laravel', ' java', ' jquery']    []           {}   
+
+      ...    vec_11    vec_12    vec_13    vec_14    vec_15    vec_16  \
+1570  ... -0.268751  0.696218  0.857981  2.570886 -1.585174  0.233587   
+
+        vec_17    vec_18    vec_19    vec_20  
+1570  1.704236 -2.948467 -0.046788  0.669107  
+
+[1 rows x 46 columns]
+       index      Resume_title    City  location  \
+10571  10571  sr php developer  Bhopal        19   
+
+                                             Description  \
+10571  to work in an organization, where innovation a...   
+
+                                        work_experiences  \
+10571  {0: [{'wtitle:': 'sr php developer'}, {'wcompa...   
+
+                                              Educations  \
+10571  {0: [{'e_title:': 'B.E. in Computer Science'},...   
+
+                                                 Skills Links Certificates  \
+10571  ['html', ' php', ' laravel', ' java', ' jquery']    []           {}   
+
+       ...   vec_11    vec_12    vec_13    vec_14    vec_15    vec_16  \
+10571  ... -0.35899  0.695593  0.889614  2.592179 -1.479738  0.347132   
+
+        vec_17    vec_18    vec_19    vec_20  
+10571  1.83175 -3.033273  0.111823  0.537124  
+
+[1 rows x 46 columns]
